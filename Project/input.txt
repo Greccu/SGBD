@@ -1,0 +1,584 @@
+-locations
+Strada Mihail Kogalniceanu 1
+400084
+Cluj-Napoca
+Cluj
+Romania
+
+Bulevardul Carol 11
+700506
+Iasi
+Iasi
+Romania
+
+Splaiul Independentei 313
+060042
+Bucuresti
+Bucuresti
+Romania
+
+Bulevardul M. Kogalniceanu 36-46
+050107
+Bucuresti
+Bucuresti
+Romania
+
+Piata Romana 6, Sector 1
+010374
+Bucuresti
+Bucuresti
+Romania
+
+-universities
+Universitatea Babes-Bolyai
+1
+
+Universitatea Alexandru Ioan Cuza din Iasi
+2
+
+Universitatea Politehnica din Bucuresti
+3
+
+Universitatea din Bucuresti
+4
+
+Academia de Studii Economice din Bucuresti
+5
+
+-locations
+Str. Teodor Mihali, Nr. 58-60
+400591
+Cluj-Napoca
+Cluj
+Romania
+
+Str. Mihail Kogălniceanu, nr. 1
+400084
+Cluj-Napoca
+Cluj
+Romania
+
+Str. Toma Cozma, Nr. 3
+700554
+Iasi
+Iasi
+Romania
+
+B-dul Carol I, Nr. 11
+700506
+Iasi
+Iasi
+Romania
+
+Strada Gheorghe Polizu, nr 1-7, Corp F
+011061
+Bucuresti
+Bucuresti
+Romania
+
+Splaiul Independentei, nr. 313
+060042
+Bucuresti
+Bucuresti
+Romania
+
+Str. Academiei nr.14
+010014
+Bucuresti
+Bucuresti
+Romania
+
+Bd. Mihail Kogălniceanu nr. 36-46
+050107
+Bucuresti
+Bucuresti
+Romania
+
+Str. Caderera Bastiliei nr. 2-10
+010374
+Bucuresti
+Bucuresti
+Romania
+
+Bd. Dacia nr. 41
+010404
+Bucuresti
+Bucuresti
+Romania
+
+-faculties
+Facultatea de Stiinte Economice si Gestiunea Afacerilor
+1
+6
+econ.ubb.ro
+
+Facultatea de Matematica si Informatica
+1
+7
+fmi.ubb.ro
+
+Facultatea de Psihologie si stiinte ale Educatiei
+2
+8
+psih.uaic.ro
+
+Facultatea de Litere
+2
+9
+lit.uaic.ro
+
+Facultatea de Inginerie Medicala
+3
+10
+fim.upb.ro
+
+Facultatea de Automatica si Calculatoare
+3
+11
+acs.upb.ro
+
+Facultatea de Matematica si Informatica
+4
+12
+fmi.unibuc.ro
+
+Facultatea de Drept
+4
+13
+drept.unibuc.ro
+
+Facultatea de Contabilitate si Informatica de Gestiune
+5
+13
+cig.ase.ro
+
+Facultatea de Marketing
+5
+14
+mk.ase.ro
+
+-students
+Costi Comeaga
+Denis Dita
+George Tudor
+Horasiu Goga
+Danus Gabor
+Adrian Olinescu
+Cristian Kazaku
+George Petrescu
+Felix Romanescu
+Florentin Stancu
+Sonia Rudeanu
+Codruta Marcovici
+Adrianna Boroi
+Eliza Rotaru
+Margareta Zamfir
+Aurelia Cojoc
+Marta Filipescu
+Adela Ciora
+Mara Raducioiu
+Michaela Artenie
+Manuel Vasilescu
+Simu Costache
+Dragos Vulpes
+Flaviu Lupescu
+Gheorghe Groza
+Codrin Filipescu
+Ferka Dalca
+Carol Paler
+Florentin Ojacarcu
+Iulian Theodorescu
+Denisa Cosovei
+Anca Arcos
+Adela Nemes
+Rodika Corbeanu
+Constansa Blaga
+Ilena Grigorescu
+Mihaela Rosetti
+Irina Negoitescu
+Codruta Donceanu
+Yessenia Voicu
+Mazonn Ardelean
+Teo Kazaku
+Petru Nita
+Dracul Troester
+Ciodaru Mihaili
+Marius Costiniu
+Marius Minea
+Glad Apostu
+Anton Dumitru
+Rasvan Moscovici
+Stefania Mihai
+Carmen Luca
+Izabela Tatarescu
+Teofila Tilea
+Ana-maria Tavitian
+Alexandreina Iacobescu
+Ilinca Lupul
+Florenta Boroi
+Iuliana Raducanu
+Ilinca Dragan
+Paul Costache
+Ciodaru Checiches
+Marius Gilca
+Claudiu Enescu
+Mihai Bogoescu
+Boian Lascar
+Arsenie Apostol
+Cristofor Muresanu
+Costel Mandruleanu
+Filip Cristescu
+Alina Popescu
+Uta Ciora
+Virginia Alexandrescu
+Constansa Marandici
+Magdalena Musat
+Catina Manole
+Luiza Giurgiu
+Craita Ionescu
+Zina Poénaru
+Alexandreina Cosovei
+Boian Pirvu
+Dracul Ojacarcu
+Calin Ojacarcu
+Dionisie Vladimiri
+Ciprian Pop
+Iorghu Munteanu
+Cristofor Oprea
+Theodor Ghezzo
+Marius Macek
+Stan Barnutiu
+Regina Pacuraru
+Sandra Gilca
+Ilinca Ceausescu
+Miruna Poénaru
+Melita Ciumak
+Marinela Ilica
+Rodika Goian
+Daniela Leonte
+Diona Troester
+Codruta Pîrvulescu
+Nicolas Chitu
+Sergiu Raceanu
+Valeriu Skutnik
+Simu Donceanu
+Iulio Mechitbayeva
+Glad Constantin
+Iosif Dobre
+Sebastian Stefan
+Niculaie Breban
+Simion Marinescu
+Mihaela Popescu
+Florenta Kazaku
+Petronela Andreescu
+Madalina Dimir
+Iolanda Moculescu
+Eugenia Osmochescu
+Lucia Alexandrescu
+Mariana Vladimirescu
+Lizuca Barnutiu
+Sorinna Milosovici
+Jean Filotti
+Alin Baicu
+Codrin Ionita
+Costica Barbulescu
+Eduard Pekurar
+Rica Olinescu
+Flavius Gabor
+Costica Ciumak
+Simu Apostu
+Dumitru Tudor
+Amalia Bumbescu
+Vanda Luca
+Ruxandra Gilca
+Anemona Cornea
+Narcisa Puiu
+Elena Stefanescu
+Catalina Nica
+Ilinca Iordache
+Ileana Anghelescu
+Lavinia Mondragon
+Nandru Ragar
+Petru Stirbei
+Artur Miklos
+Virgil Cosma
+Grigore Rosetti
+Marku Pop
+Vasile Belododia
+Virgil Rotaru
+Vasilescu Macedonski
+Petar Antonescu
+Ana-maria Amanar
+Rozalia Stanescu
+Mirela Fidatov
+Dorota Hutopila
+Tatiana Hasdeu
+Aurora Enache
+Isabella Ripnu
+Viorica Adamache
+Voctorita Blerinca
+Vanda Cojocar
+Dinu Stoica
+Ion Tugurlan
+Simon Serbanescu
+Danut Nicu
+Adrian Nicolescu
+Aurel Yonescu
+Lucian Lixandroiu
+Horasiu Mihalache
+Augustin Marin
+Raul Nemes
+Floarea Argetoianu
+Erika Piturca
+Aurica Gaina
+Angelica Ganea
+Lina Alecsandri
+Ecaterina Selymes
+Tabitha Dita
+Costela Petri
+Luminita Banciu
+Crina Ghezzo
+Costache Izbasa
+Mihai Stinga
+Geza Diaconu
+Varujan Otvos
+Antonio Olinescu
+Dorin Stanasila
+Toma Tilea
+Anton Lupei
+Cornel Butacu
+Adi Butacu
+Lenuta Cosmescu
+Rozalia Vãduva
+Valeria Vladimiri
+Doina Otvos
+Relia Iordache
+Cristina Albu
+Constanta Blaga
+Codruta Vulpes
+Virginia Covaci
+Daciana Ionita
+Ionache Barnutiu
+George Lupescu
+Sergiu Bus
+Costin Kazaku
+Dragoslav Torje
+Dracul Manea
+Ionache Mihalache
+Iulien Mondragon
+Pereteanu Kogalniceaunu
+Doru Cernea
+Monique Silivasi
+Marina Vladimirescu
+Carla Ojacarcu
+Alexandra Ene
+Rodica Moculescu
+Iona Kogalniceanu
+Ileana Goian
+Olivia Pescariu
+Corina Popa
+Viorica Saftoiu
+Dragoslav Nistor
+Catarino Cosma
+Adam Vântu
+Eftemie Alexandrescu
+Alin Ojacarcu
+Cristinel Georgescu
+Raul Arcos
+Felix Cojocar
+Dragomir Maniu
+Marcel Dinu
+Delia Rebreanu
+Codruta Simeonescu
+Mirela Bucur
+Luminita Mihai
+Daria Stirbei
+Bogdana Cardei
+Atanasia Mihalache
+Eveline Nica
+Estera Giurgiu
+Flori Blerinca
+Ciodaru Filipescu
+Emanuel Moldovan
+Stelian Costin
+Teodor Tugurlan
+Nicusor Bengescu
+Alexandru Pescariu
+Sorin Prunea
+Sorin Milcu
+Sergiu Enache
+Cristinel Diaconu
+Lizuca Kazaku
+Claudia Checiches
+Tara Roman
+Teodora Milosovici
+Jeni Morosanu
+Cecilia Iordanescu
+Yessenia Rusu
+Tereza Zamfir
+Luminita Draghici
+Elena Sala
+Tiberiu Banica
+Cristinel Constantinescu
+Razvan Cozma
+Serghei Silivasi
+Carol Petri
+Beniamin Lupu
+Dorin Pârvulescu
+Mihaita Moisuc
+Dan Artenie
+Shaithis Lazarescu
+Dominique Popescu
+Draguta Istrati
+Gheorghita Teodorescu
+Melania Morosanu
+Lavinia Ene
+Elena Vianu
+Jenica Cristescu
+Kathryn Puiu
+Monica Presecan
+Beatrix Silivasi
+Alexandru Hasdeu
+Teodor Hagi
+Jan Vãduva
+Ciodaru Groza
+Vlad Catargiu
+Nicu Toma
+Marius Sala
+Beryx Bus
+Emil Butacu
+Adrian Toma
+Catina Vasile
+Dana Pangratiu
+Virginia Filotti
+Anamaria Pop
+Ioanela Sandulescu
+Voileta Teodorescu
+Virginia Morariu
+Flavia Mihalache
+Emilia Preda
+Iulia Pogonat
+
+-professors
+Denis Tugurlan
+Dragoslav Poenaru
+Iuliu Macedonski
+Anton Cojocar
+Costel Voinea
+Stelian Istrati
+Filip Grul
+Dragos Nemes
+Emanuel Moldovanu
+Jean Constantinescu
+Eveline Cristea
+Vasilica Enache
+Zana Marinescu
+Roxana Ghita
+Paula Banciu
+Antanasia Cretu
+Sorinna Sollomovici
+Magdalena Leonte
+Izabela Mocanu
+Crina Negutesco
+Marcel Pogonat
+Niculaie Parasca
+Dominik Baboescu
+Dominik Eliade
+Stan Diaconu
+Teodor Cosovei
+Horea Tarus
+Arsenie Diaconu
+Aurel Cernat
+Petar Cretu
+Cristina Mironescu
+Eugenia Muresan
+Stefana Eliade
+Adelina Stolojan
+Silvia Goldis
+Daniela Suciu
+Anca Olaru
+Ana-maria Ilie
+Ana Vasiliu
+Isabela Pop
+Adrian Tatarescu
+Vasile Serbanescu
+Matei Sala
+Dominik Costache
+Ivan Rosetti
+Serafim Moculescu
+Ionut Gherea
+Timotei Lupu
+Mihail Alecsandri
+Nic Bengescu
+Camelia Nistor
+Mihaela Puscas
+Margareta Gilca
+Juana Simeonescu
+Carmen Constantinescu
+Lia Nicolescu
+Denisa Tanase
+Adriana Oprea
+Miruna Dragomir
+Mihaela Catargiu
+
+-classes
+Contabilitate bancara
+Contabilitate financiara
+Marketing
+Gestiunea financiara a firmei
+Gestiune bancara
+Buget si trezorerie publica
+Structuri de date
+Dezvoltarea aplicatiilor Web
+Retele de calculatoare
+Sisteme distribuite si securitate
+Grafica si vizualizare
+Dezvoltarea aplicatiilor mobile
+Psihologia educatiei
+Fundamentele psihologiei
+Psihologie sociala
+Tehnici de munca intelectuala
+Etica academica
+Statistica aplicata in psihologie
+Gestionarea informației în societatea contemporană
+Modele de comunicare si relatii publice
+Etnologie
+Literatura universala
+Comunicare si relatii publice
+Cultura si politica in context international
+Biologie Celulara si Moleculara
+Nanobiomateriale
+Fiziologie
+Inginerie Medicala
+Electronica Analogica si Digitala in Biomedicina
+Analiza Probelor Biologice
+Proiectare logica
+Elemente de electronica analogica
+Proiectarea algoritmilor
+Protocoale de comunicatii
+Tehnici de optimizare
+Arhitectura calculatoarelor
+Inteligenta artificiala
+Fundamentele limbajelor de programare
+Metode de dezvoltare software
+Inginerie software
+Programare orientata pe obiecte
+Baze de date
+Drept civil
+Drept constitutional
+Filosofie
+Metodologie juridica
+Drept penal
+Criminologie
+Dreptul afacerilor
+Macroeconomie
+Econometrie
+Gestiune financiara
+Control de gestiune
+Analiza economico-financiara
+Macroeconomie
+Mediul de afaceri european
+Etica în afaceri
+Business to business marketing
+Cybermarketing
+Tehnici de vanzare
