@@ -49,7 +49,7 @@ CREATE TABLE students (
   first_name VARCHAR2(25) CONSTRAINT student_first_name_nn NOT NULL,
   last_name VARCHAR2(25) CONSTRAINT student_last_name_nn NOT NULL,
   email VARCHAR2(40),
-  phone_number NUMBER(15),
+  phone_number VARCHAR(15),
   faculty_id NUMBER(10) CONSTRAINT student_faculty_fk REFERENCES faculties(faculty_id) ON DELETE CASCADE
 );
 
@@ -58,7 +58,7 @@ CREATE TABLE professors (
   first_name VARCHAR2(25)   CONSTRAINT professor_first_name_nn NOT NULL,
   last_name VARCHAR2(25)    CONSTRAINT professor_last_name_nn NOT NULL,
   email VARCHAR2(60),
-  phone_number NUMBER(15),
+  phone_number VARCHAR2(15),
   faculty_id NUMBER(10)     CONSTRAINT professor_faculty_fk REFERENCES faculties(faculty_id) ON DELETE CASCADE
 );
 

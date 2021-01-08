@@ -5,8 +5,8 @@ format_text = {
     "-locations": "INSERT INTO locations (location_id,street_adress,postal_code,city,state_region,country) VALUES (seq_location.nextval,'{}','{}','{}','{}','{}');\n",
     "-universities": "INSERT INTO universities (university_id, university_name,location_id) VALUES (seq_university.nextval,'{}',{});\n",
     "-faculties": "INSERT INTO faculties (faculty_id,faculty_name,university_id,location_id) VALUES (seq_faculty.nextval,'{}',{},{});\n",
-    "-students": "INSERT INTO students (student_id,first_name,last_name,email,phone_number,faculty_id) VALUES (seq_student.nextval,'{}','{}','{}',{},{});\n",
-    "-professors": "INSERT INTO professors (professor_id,first_name,last_name,email,phone_number,faculty_id) VALUES (seq_professor.nextval,'{}','{}','{}',{},{});\n",
+    "-students": "INSERT INTO students (student_id,first_name,last_name,email,phone_number,faculty_id) VALUES (seq_student.nextval,'{}','{}','{}','{}',{});\n",
+    "-professors": "INSERT INTO professors (professor_id,first_name,last_name,email,phone_number,faculty_id) VALUES (seq_professor.nextval,'{}','{}','{}','{}',{});\n",
     "-classes": "INSERT INTO classes (class_id,class_name,professor_id) VALUES (seq_class.nextval,'{}',{});\n",
     "-classes_students": "INSERT INTO classes_students (student_id,class_id) VALUES ({},{});\n"
 }

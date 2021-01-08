@@ -1,36 +1,3 @@
--- auto increment - https://www.w3schools.com/sql/sql_autoincrement.asp
--- delete content from tables
-DELETE FROM classes_students;
-DELETE FROM classes;
-DELETE FROM faculties;
-DELETE FROM locations;
-DELETE FROM professors;
-DELETE FROM students;
-DELETE FROM universities;
--- drop sequences
-DROP SEQUENCE seq_class;
-DROP SEQUENCE seq_faculty;
-DROP SEQUENCE seq_location;
-DROP SEQUENCE seq_professor;
-DROP SEQUENCE seq_student;
-DROP SEQUENCE seq_university;
--- create sequences
-CREATE SEQUENCE seq_class MINVALUE 1 START WITH 1 INCREMENT BY 1 CACHE 10;
-CREATE SEQUENCE seq_faculty MINVALUE 1 START WITH 1 INCREMENT BY 1 CACHE 10;
-CREATE SEQUENCE seq_location MINVALUE 1 START WITH 1 INCREMENT BY 1 CACHE 10;
-CREATE SEQUENCE seq_professor MINVALUE 1 START WITH 1 INCREMENT BY 1 CACHE 10;
-CREATE SEQUENCE seq_student MINVALUE 1 START WITH 1 INCREMENT BY 1 CACHE 10;
-CREATE SEQUENCE seq_university MINVALUE 1 START WITH 1 INCREMENT BY 1 CACHE 10;
--- describe tables
-describe locations;
-describe universities;
-describe faculties;
-describe students;
-describe professors;
-describe classes;
-describe classes_students;
--- inserts
-/
 --locations
 INSERT INTO locations (location_id,street_adress,postal_code,city,state_region,country) VALUES (seq_location.nextval,'Strada Mihail Kogalniceanu 1','400084','Cluj-Napoca','Cluj','Romania');
 INSERT INTO locations (location_id,street_adress,postal_code,city,state_region,country) VALUES (seq_location.nextval,'Bulevardul Carol 11','700506','Iasi','Iasi','Romania');
@@ -1388,15 +1355,3 @@ INSERT INTO classes_students (student_id,class_id) VALUES (299,19);
 INSERT INTO classes_students (student_id,class_id) VALUES (300,46);
 INSERT INTO classes_students (student_id,class_id) VALUES (300,43);
 INSERT INTO classes_students (student_id,class_id) VALUES (300,44);
-
-/
-commit;
-
--- selects
-select * from locations order by 1;
-select * from universities order by 1;
-select * from faculties order by 1;
-select * from students order by 1;
-select * from professors order by 1;
-select * from classes order by 1;
-select * from classes_students order by 1;
